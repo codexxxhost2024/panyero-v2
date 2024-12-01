@@ -1,4 +1,4 @@
-package com.mycompany.panyero
+package com.explorejob.myworld
 
 import io.flutter.embedding.android.FlutterActivity
 
